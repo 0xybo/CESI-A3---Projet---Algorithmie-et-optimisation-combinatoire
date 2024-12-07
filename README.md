@@ -5,3 +5,8 @@
 </center>
 
 Regarder [PROJET.ipynb](/PROJET.ipynb).
+
+Projet en collaboration avec : 
+- Hugo H. <[HuHel](https://github.com/HuHel)>
+- Nicolas R.
+- Yasmine B.
